@@ -1,0 +1,15 @@
+{
+  "name": "my-matrix-project",
+  "version": "1.0.0",
+  "description": "A project to create matrices and save them in .txt files",
+  "main": "src/createMatrix.js",
+  "scripts": {
+    "start": "node src/createMatrix.js"
+  },
+  "keywords": ["matrix", "file", "txt"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
